@@ -273,7 +273,7 @@
 
   (footprint "cycfi_library:cycfi-logo-9mm" (layer "F.Cu")
     (tedit 0) (tstamp 216f20b6-6b15-45b9-b014-4ef5b42afe8a)
-    (at 101.3 104)
+    (at 128.9 104)
     (attr through_hole board_only)
     (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
@@ -835,7 +835,7 @@
 
   (footprint "cycfi_library:cycfi-logo-9mm" (layer "F.Cu")
     (tedit 0) (tstamp 4d532181-3882-4426-ba5e-b5f1467b7f5e)
-    (at 101.3 90.15)
+    (at 131.9 90.15)
     (attr through_hole board_only)
     (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
@@ -1990,7 +1990,7 @@
 
   (footprint "cycfi_library:cycfi-logo-9mm" (layer "F.Cu")
     (tedit 0) (tstamp b4ab0253-3c61-42c7-9c83-1920cd11acdc)
-    (at 101.3 76.1)
+    (at 130.9 76.1)
     (attr through_hole board_only)
     (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
@@ -2440,7 +2440,7 @@
 
   (footprint "cycfi_library:cycfi-logo-9mm" (layer "F.Cu")
     (tedit 0) (tstamp d80b14e6-0d63-4b40-a010-556a3b70c631)
-    (at 101.4 53.3)
+    (at 131 53.3)
     (attr through_hole board_only)
     (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
@@ -3523,22 +3523,22 @@
     ) (layer "F.SilkS") (width 0.12) (fill solid) (tstamp eeccce20-864d-4bd6-b998-6a5064f43342))
   (gr_rect (start 96 52.125) (end 142 73.125) (layer "F.SilkS") (width 0.12) (fill none) (tstamp fc4bd847-7781-4db6-8729-891670055a39))
   (gr_rect (start 95 51) (end 143 116) (layer "Edge.Cuts") (width 0.05) (fill none) (tstamp 5644c2b9-ffb1-49e9-aa00-16447f27a439))
-  (gr_text "10X PREAMP" (at 110 104.1) (layer "F.SilkS") (tstamp 352815d3-a28e-4b12-8978-b96a904d4ec5)
+  (gr_text "10X PREAMP" (at 137.7 104.1) (layer "F.SilkS") (tstamp 352815d3-a28e-4b12-8978-b96a904d4ec5)
     (effects (font (size 0.8 0.8) (thickness 0.1)))
   )
   (gr_text "+" (at 97.9 55.8) (layer "F.SilkS") (tstamp ccc4a550-525f-4b9f-82af-1601212f847b)
     (effects (font (size 2 2) (thickness 0.15)))
   )
-  (gr_text "DIFF AMP" (at 108.9 53.4) (layer "F.SilkS") (tstamp d8c57386-86d5-4d8e-9de6-898660194eeb)
+  (gr_text "DIFF AMP" (at 138.6 53.4) (layer "F.SilkS") (tstamp d8c57386-86d5-4d8e-9de6-898660194eeb)
     (effects (font (size 0.8 0.8) (thickness 0.1)))
   )
   (gr_text "-" (at 97.9 68.6) (layer "F.SilkS") (tstamp f44a2aac-ab27-4726-84b8-e5ace1c0937c)
     (effects (font (size 2 2) (thickness 0.15)))
   )
-  (gr_text "BUFFER" (at 108.3 90.25) (layer "F.SilkS") (tstamp f46d4d05-c52d-495a-87c8-18e38cc7f9aa)
+  (gr_text "BUFFER" (at 139 90.25) (layer "F.SilkS") (tstamp f46d4d05-c52d-495a-87c8-18e38cc7f9aa)
     (effects (font (size 0.8 0.8) (thickness 0.1)))
   )
-  (gr_text "INVERTER" (at 108.8 76.2) (layer "F.SilkS") (tstamp f8ed81b9-89aa-4982-ba5a-0f3dea122c0b)
+  (gr_text "INVERTER" (at 138.5 76.2) (layer "F.SilkS") (tstamp f8ed81b9-89aa-4982-ba5a-0f3dea122c0b)
     (effects (font (size 0.8 0.8) (thickness 0.1)))
   )
 
